@@ -1,4 +1,7 @@
 # Sleemory
+
+Sleep has positive effects on memory consolidation, a critical process for learning and cognitive function. By analyzing changes in both lower and higher-level visual representations of episodic memories before and after sleep, we aim to understand how sleep affects the retention and modification of visual and semantic information.
+
 ## dataset/
 
 1. sleemory_localiser: 
